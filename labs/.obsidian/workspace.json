@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "a8b810f5922b9fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "79223ff9d28b27bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e90388bb2b9f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab Double (Profesional).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab Double (Profesional)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb7b1d05dd504289",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b227337d6bca776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24632771dbeb19f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79d73be5894a6e88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6ced34ee5b141bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47c6f4eb99769d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "38e19651ddd45496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a00660ac0311a866",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lab Double (Profesional).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lab Double (Profesional)"
+            }
+          },
+          {
+            "id": "4ca8c7ec9b861238",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lab Double (Profesional).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lab Double (Profesional)"
+            }
+          },
+          {
+            "id": "190e9b85a66d3c3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3ff0faadb5a6c0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lab Double (Profesional).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lab Double (Profesional)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7e90388bb2b9f12",
+  "lastOpenFiles": [
+    "backend_page.md",
+    "Lab Double (Profesional).md",
+    "imagenes/backend_page.png",
+    "imagenes/whatweb.png",
+    "imagenes/Intento_fallido.png",
+    "imagenes/IP.png",
+    "imagenes/Gobuster_scan.png",
+    "imagenes/Form_principal.png",
+    "imagenes/Finalizacion.png",
+    "imagenes/Escanning_nmap.png",
+    "imagenes/Escaneo_terminado.png",
+    "imagenes/Ejecucion_Docker.png",
+    "imagenes",
+    "Welcome.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
