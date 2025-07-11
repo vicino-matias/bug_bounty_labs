@@ -62,7 +62,7 @@ Hasta entonces, primero nos aseguraremos que hay corriendo un servicio web (y qu
 
 Cuando ingresamos a la pagina web mediante nuestro navegador, nos damos cuenta que hay un simple formulario donde podemos probar inyecciones XSS (Cross-Site Scripting).
 
-![](Form_principal.png)
+![](imagenes/Form_principal.png)
 
 Intentaremos usar algún payload de los muchos que hay (puedes buscarlos en este repositorio si lo deseas: https://github.com/payloadbox/xss-payload-list/blob/master/Intruder/xss-payload-list.txt). Yo usare este:  ```<script>alert()</script>```
 
