@@ -2,10 +2,15 @@
 # Bug Bounty Labs - Double
 
 > **Autor**: vicino_matias
+> 
 > **Fecha**: 11 de Julio de 2025
+> 
 > **Nivel**: Profesional
+> 
 > **Categoria**: Web / XSS Reflejado
+> 
 > **Herramientas**: Nmap, Gobuster, Burp Suite, Whatweb, Navegador.
+> 
 
 Hola, un placer que estén aquí leyendo esto. El día de hoy estaremos viendo como resolver la maquina Double de Bug Bounty Labs.
 
