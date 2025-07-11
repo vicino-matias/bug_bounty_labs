@@ -21,7 +21,7 @@ Este py lo corremos con este comando:
 sudo python3 bugbountylabs_double.py
 ```
 
-![](Ejecucion_Docker.png)
+![](imagenes/Ejecucion_Docker.png)
 
 Al confirmar la instalación por consola, se nos hará el contenedor y nos proporcionara una IP. Esta IP es la que usaremos durante todo el laboratorio.
 ![](IP.png)
